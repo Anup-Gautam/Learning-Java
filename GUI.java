@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 // Simple GUI  using JOptionPane
-public class Main{
+public class GUI{
     public static void main(String[] args){
       // JOPtionPane.showInputDialog(string) Takes in the input
         String name = JOptionPane.showInputDialog("Enter your name");
