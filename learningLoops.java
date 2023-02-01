@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class learningLoops{
     public static void main(String[] args){
 
         // if else statements = perform a block of code if the condition stated is true
